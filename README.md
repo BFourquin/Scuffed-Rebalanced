@@ -2,7 +2,8 @@
 
 Rebalance of the Heart of Iron IV's mod RT56 Scuffed
 
-[Steam Workshop mod page](https://steamcommunity.com/sharedfiles/filedetails/?id=3129657849) 
+[Steam Workshop mod page](https://steamcommunity.com/sharedfiles/filedetails/?id=3129657849)
+
 [Discord HOI4 France](https://discord.gg/a6W2Uedc8R)
 
 

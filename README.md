@@ -17,4 +17,4 @@ FUTURE PLANS :
 
 PATCH NOTES :
 
-    2024/01/03 > Tank IC cost and base reliability rebalanced
+    - 2024/01/03 > Tank IC cost and base reliability rebalanced

@@ -35,12 +35,22 @@ upgrades = {
 		}
 
 
-		#maximum_speed = 0.1
-		reliability = -0.015
+		maximum_speed = 0.01 # Percentage speed increase
+		reliability = -0.03
 		add_stats = {
-			fuel_consumption = 0.05
-			build_cost_ic = 0.1
-			maximum_speed = 0.1
+			fuel_consumption = 0.1
+			build_cost_ic = 0.2
+			maximum_speed = 0.2 # Flat value speed increase
+
+
+		# Vanilla values
+		#reliability = -0.015
+		#add_stats = {
+		#	fuel_consumption = 0.05
+		#	build_cost_ic = 0.1
+		#	maximum_speed = 0.1
+
+
 		}
 	}
 

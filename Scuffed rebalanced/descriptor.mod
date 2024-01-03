@@ -1,5 +1,5 @@
 version="1"
-dependencies = {
+dependencies={
 	"SCUFFED 56"
 }
 tags={

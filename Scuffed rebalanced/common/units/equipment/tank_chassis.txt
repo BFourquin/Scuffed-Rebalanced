@@ -32,6 +32,7 @@ equipments = {
 				required = yes
 				allowed_module_categories = {
 					tank_light_turret_type
+					tank_scuffed_addons_turret_type
 				}
 			}
 			suspension_type_slot = {
@@ -680,6 +681,11 @@ equipments = {
 		maximum_speed = 5
 		reliability = 1
 		breakthrough = 3
+		resources = {
+			steel = 2
+			chromium = 1
+			
+		}
 	}
 
 	heavy_tank_chassis_2 = {
@@ -698,6 +704,7 @@ equipments = {
 		breakthrough = 6
 		resources = {
 			steel = 2
+			chromium = 1
 			
 		}
 	}
@@ -718,6 +725,7 @@ equipments = {
 		breakthrough = 9
 		resources = {
 			steel = 3
+			chromium = 1
 		}
 	}
 

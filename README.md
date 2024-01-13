@@ -1,10 +1,14 @@
 # Scuffed Rebalanced
+![Scuffed Rebalanced Logo](https://github.com/BFourquin/Scuffed-Rebalanced/assets/16139933/da069916-08f5-4097-b80b-ebd200146cd5)
+
+
 
 Rebalance of the Heart of Iron IV's mod RT56 Scuffed
 
 [Steam Workshop mod page](https://steamcommunity.com/sharedfiles/filedetails/?id=3129657849)
 
 [Discord HOI4 France](https://discord.gg/a6W2Uedc8R)
+
 
 
 As the mod enabled to build far bigger industries -particularly minor countries- while also reducing the cost of production of tanks, it is now possible to produce to produce things like full armies of dirt cheap super-heavy tanks or an Atlantikwall manned by tanks on every ports...
@@ -22,9 +26,3 @@ FUTURE PLANS :
 
     - Major increase of IC cost for planes
     - Minor increase of IC cost for all infantery equipments
-
-__________________________________________________________________
-
-PATCH NOTES :
-
-    - 2024/01/03 > Tank IC cost and base reliability rebalanced

@@ -11,9 +11,9 @@ Rebalance of the Heart of Iron IV's mod RT56 Scuffed
 
 
 
-As the mod enabled to build far bigger industries -particularly minor countries- while also reducing the cost of production of tanks, it is now possible to produce to produce things like full armies of dirt cheap super-heavy tanks or an Atlantikwall manned by tanks on every ports...
+As the mod enabled to build far bigger industries -particularly minor countries- while also reducing the cost of production of tanks, it is now possible to get ridiculous situations like full armies of dirt cheap super-heavy tanks or an Atlantikwall manned by tanks on every ports...
 
-This submod intend to rebalance the mod, going back to micromanage a few quality divisions instead of having to battleplan with whole armies of armored divisions.
+This submod intend to rebalance the mod, putting back the importance of micromanaging a few quality divisions instead of having to battleplan with absurd armies full of armored divisions.
 
 [Full details of the reworks](https://docs.google.com/spreadsheets/d/130QgY6n4A_j0FoNEM0m5RXxWgb-O5okCGZvxQSzfZRM/)
 
